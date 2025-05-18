@@ -314,10 +314,10 @@ const SpecialsCard = () => {
       image: img
     },
     { 
-      name: "Baked Crab Cheese", 
-      price: "$66", 
+      name: "Shuwarma Cheese", 
+      price: "$30", 
       spicy: true,
-      description: "Lump crab meat baked with three cheeses and spices",
+      description: "Shuwarma  baked with three cheeses and spices",
       image: img1
     },
     { 
