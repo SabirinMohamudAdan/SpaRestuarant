@@ -298,9 +298,9 @@
 import React from 'react';
 import bgImage from "../image/bg3.jpg";
 import img from "../image/i1.jpg";
-import img1 from "../image/i2.jpg";
-import img2 from "../image/i3.jpg";
-import img3 from "../image/i4.jpg";
+import img1 from "../image/shura.jpg";
+import img2 from "../image/buker.jpg";
+import img3 from "../image/peazaa.jpg";
 import { FiShoppingCart, FiArrowRight } from 'react-icons/fi';
 import { motion } from 'framer-motion';
 
