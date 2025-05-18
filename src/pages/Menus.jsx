@@ -3532,14 +3532,14 @@ const MenuSection = () => {
         {
           id: 27,
           name: "Leomon",
-          description: "Our special house cocktail blend",
+          description: "Our special leomon  ",
           price: "$2",
           image: img6
         },
         {
           id: 28,
-          name: "Leomon Cocktail",
-          description: "Our special house cocktail blend",
+          name: "Leomon ",
+          description: "Our special  leomon",
           price: "$1.3",
           image: img10
         },

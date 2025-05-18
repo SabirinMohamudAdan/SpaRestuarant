@@ -308,7 +308,7 @@ const SpecialsCard = () => {
   const menuItems = [
     { 
       name: "Roasted Chicken", 
-      price: "$55", 
+      price: "$35", 
       popular: true,
       description: "Herb-crusted free-range chicken with roasted vegetables",
       image: img
@@ -321,17 +321,17 @@ const SpecialsCard = () => {
       image: img1
     },
     { 
-      name: "Foie Gras", 
-      price: "$99", 
+      name: "Burger -----", 
+      price: "$20", 
       premium: true,
-      description: "Seared duck liver with black truffle reduction",
+      description: "Burger with cheese and well parepared ",
       image: img2
     },
     { 
-      name: "Filet Mignon", 
-      price: "$89", 
+      name: "Peaza ", 
+      price: "$25", 
       premium: true,
-      description: "8oz grass-fed beef with red wine demi-glace",
+      description: "Peaza with cheese and well parepared",
       image: img3
     }
   ];
