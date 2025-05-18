@@ -451,7 +451,7 @@ function Service() {
           <div className="relative py-4">
             <hr className="border-amber-500 w-24 border-t-2 absolute top-0 left-0 transform origin-left scale-x-0 lg:scale-x-100 group-hover:scale-x-110 transition-all duration-1000 ease-[cubic-bezier(0.68,-0.55,0.27,1.55)]" />
             <p className="text-gray-300/90 leading-relaxed md:leading-loose text-lg md:text-xl pt-6 transform hover:translate-x-2 transition-all duration-500 ease-out">
-              At Delizus, we blend tradition with innovation to create culinary masterpieces. 
+              At Delizus, we mix tradition with innovation to create culinary masterpieces. 
               Our chefs pour passion into every dish, using only the finest ingredients to 
               craft unforgettable dining experiences that engage all your senses.
             </p>
