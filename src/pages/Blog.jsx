@@ -1782,7 +1782,7 @@ function Blog() {
                 </div>
               </motion.div>
               
-              <motion.div 
+              {/* <motion.div 
                 className="bg-black/40 border border-gray-800 rounded-xl p-6 mt-8"
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
@@ -1814,7 +1814,7 @@ function Blog() {
                     </div>
                   </div>
                 </div>
-              </motion.div>
+              </motion.div> */}
             </div>
           )}
         </div>
