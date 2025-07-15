@@ -85,7 +85,7 @@ function Contact() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-amber-500 mb-1">Phone Number</h3>
-                  <p className="text-white">+252 61 2345678</p>
+                  <p className="text-white">+252 770 764 104 </p>
                   <p className="text-gray-400">Mon-Fri, 8:00 AM - 6:00 PM</p>
                 </div>
               </div>
