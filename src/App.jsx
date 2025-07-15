@@ -53,7 +53,7 @@ import { Routes, Route } from 'react-router-dom';
 import Home from "./pages/Home";
 // import Menu from "./pages/Menu";
 import About from "./pages/About";
-import Book from "./pages/Book";
+
 import Event from "./pages/Event";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
