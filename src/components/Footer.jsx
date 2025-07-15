@@ -125,7 +125,7 @@ const Footer = () => {
           
           {/* Logo with decorative elements */}
           <div className="relative mb-10">
-            <h1 className="text-5xl font-serif font-bold tracking-tight">SAPRINAA</h1>
+            <h1 className="text-5xl font-serif font-bold tracking-tight">Restora</h1>
             <div className="absolute -bottom-4 left-1/2 transform -translate-x-1/2 w-24 h-1 bg-amber-400"></div>
           </div>
           
@@ -161,7 +161,7 @@ const Footer = () => {
           {/* Copyright with subtle border */}
           <div className="pt-8 border-t border-gray-800 w-full text-center">
             <p className="text-sm text-gray-500">
-              &copy; {new Date().getFullYear()} Saprinaa. Developed with passion.
+              &copy; {new Date().getFullYear()} Restora. Developed with passion.
             </p>
           </div>
         </div>
