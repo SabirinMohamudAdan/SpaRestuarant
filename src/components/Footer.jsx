@@ -161,7 +161,7 @@ const Footer = () => {
           {/* Copyright with subtle border */}
           <div className="pt-8 border-t border-gray-800 w-full text-center">
             <p className="text-sm text-gray-500">
-              &copy; {new Date().getFullYear()} Restora. Developed with passion.
+              &copy; {new Date().getFullYear()} Saprina. Developed with passion.
             </p>
           </div>
         </div>
